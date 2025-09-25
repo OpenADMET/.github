@@ -9,6 +9,6 @@ Small molecules remain a dominant drug modality due to their versatility and fle
 
 **AI/ML modeling:** Ligand-based, structural, mechanistic, and physiological models
 
-We aim to drive innovation through open datasets, community challenges, and collaborative tools. Check out our website [here](https://openadmet.org/) or get in touch at openadmet@omsf.io
+We aim to drive innovation through open datasets, community challenges, and collaborative tools. Check out our website [here](https://openadmet.org/) or get in touch at openadmet@omsf.io.
 
-OpenADMET is a growing consortium, currently involving OMSF, UCSF, Octant, and MSKCC, with funding from ARPA-H, the Gates Foundation, Schrödinger, and the Astera Institute.
+OpenADMET is a growing consortium, currently involving [OMSF](https://omsf.io/), [UCSF](https://www.ucsf.edu/), [Octant Inc](https://www.octant.bio/), and [MSKCC](https://www.choderalab.org/), with funding from ARPA-H, the Gates Foundation, Schrödinger, and the Astera Institute.
